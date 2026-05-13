@@ -1,7 +1,7 @@
 # Audio Signal Processing — Demucs Source Separation
 
-**Author:** Tristan Toshiharu Endo  
-**Institution:** University of California, San Diego  
+**Author:** Tristan Endo  
+**Institution:** Think Twice Legal  
 **Year:** 2025
 
 ## Overview
